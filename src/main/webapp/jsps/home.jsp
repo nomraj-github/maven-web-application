@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Hi Nomraj devops </h1>
-<h1 align="center"> hello</h1>
+<h1 align="center">good morning </h1>
+<h1 align="center">heloooo</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -38,7 +38,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
 		Bangalore,
 		+91-9980923226
-		devopstrainingblr@gmail.com
+		nomraj97@gmail.com
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
 	</span>
