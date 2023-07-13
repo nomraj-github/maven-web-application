@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">hi nomraj good morning</h1>
+<h1 align="center">Hi Nomraj good morning</h1>
 <h1 align="center"> hello</h1>
 <hr>
 <br>
